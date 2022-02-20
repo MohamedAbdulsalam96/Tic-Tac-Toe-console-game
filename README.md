@@ -34,6 +34,8 @@ This project is an (X/O)  python console game project, and it is an integrated p
 
 # Steps to download project:
 1- Download the full project from this link:
-https://github.com/aabouissa/blog-django-ar/archive/master.zip
+
+https://github.com/MohamedAbdulsalam96/Tic-Tac-Toe-console-game/archive/refs/heads/main.zip
+
 or
-you can clone the repository using this code: git clone https://github.com/aabouissa/blog-django-ar.git
+you can clone the repository using this code: git clone https://github.com/MohamedAbdulsalam96/Tic-Tac-Toe-console-game.git
